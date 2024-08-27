@@ -1,0 +1,1 @@
+## 使用babel和angular-html-parser实现 angularjs 项目的国际化方案

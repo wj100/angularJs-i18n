@@ -1,0 +1,12 @@
+{
+    "name": "i18n",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.ts",
+    "scripts": {
+        "i18n": "ts-node-esm ./i18n/main.ts"
+    },
+    "keywords": [],
+    "author": "",
+    "type": "module"
+}
